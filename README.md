@@ -9,3 +9,7 @@ For first time use run:
 For each subsequent use:
 * Navigate to working directory `research-articles`
 * `./run-me.sh`
+
+## Issues
+See errors?  File an [Issue](https://github.com/mcnichol/research-articles/issues/new) || Submit a [pull request](https://www.thinkful.com/learn/github-pull-request-tutorial/)!
+
