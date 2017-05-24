@@ -1,5 +1,5 @@
-#Research Articles
+# Research Articles
 
-##Setup
+## Setup
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/mcnichol/research-articles/master/run-me.sh)"`
